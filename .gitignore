@@ -1,0 +1,25 @@
+# Compilación (javac / NetBeans / Ant)
+build/
+dist/
+*.class
+*.jar
+
+# Configuración local de NetBeans (contiene rutas de tu equipo)
+nbproject/private/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema operativo
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# Ficheros de datos generados al guardar desde los menús
+*.ser
+*.dat
